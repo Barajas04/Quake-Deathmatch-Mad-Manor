@@ -1,2 +1,2 @@
-# Untitled-Quake-Project
+# Quake Deathmatch - Mad Manor
 yup
