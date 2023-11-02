@@ -1,2 +1,4 @@
 # Quake Deathmatch - Mad Manor
-yup
+My first Quake Deathmatch map!
+
+Textures are from American McGee's Alice (wad from quaddicted.com)
